@@ -2,8 +2,9 @@
 
 using namespace std;
 
-/*
-Name:Sumit Debnath
+/* 
+This is a team project, we are two member in a group. here is our information  
+Name: Sumit Debnath
 ID- 232-115-054
 
 Name: Tusar Ray
